@@ -1,2 +1,2 @@
-# prepcourse-henry
+# prepcoursse-henry
 este es un repositorio de prueba
